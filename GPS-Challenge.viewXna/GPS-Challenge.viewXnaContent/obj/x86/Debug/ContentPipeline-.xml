@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>mapa_backgroundIMG.jpg</Source>
+      <Name>mapa_backgroundIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\mapa_backgroundIMG.xnb</Output>
+      <Time>2013-12-08T12:33:18.3646016-03:00</Time>
+    </Item>
+    <Item>
+      <Source>vehiculo_autoIMG.jpg</Source>
+      <Name>vehiculo_autoIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_autoIMG.xnb</Output>
+      <Time>2013-12-09T17:08:05.1977197-03:00</Time>
+    </Item>
+    <Item>
+      <Source>menu_backgroundIMG.jpg</Source>
+      <Name>menu_backgroundIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\menu_backgroundIMG.xnb</Output>
+      <Time>2013-12-02T14:36:56.1776147-03:00</Time>
+    </Item>
+    <Item>
+      <Source>cuadraIMG.jpg</Source>
+      <Name>cuadraIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\cuadraIMG.xnb</Output>
+      <Time>2013-12-04T09:33:54.2522988-03:00</Time>
+    </Item>
+    <Item>
+      <Source>obstaculo_piqueteIMG.jpg</Source>
+      <Name>obstaculo_piqueteIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_piqueteIMG.xnb</Output>
+      <Time>2013-12-03T13:05:33.7538096-03:00</Time>
+    </Item>
+    <Item>
+      <Source>obstaculo_policiaIMG.jpg</Source>
+      <Name>obstaculo_policiaIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_policiaIMG.xnb</Output>
+      <Time>2013-12-03T12:42:12.3133218-03:00</Time>
+    </Item>
+    <Item>
+      <Source>obstaculo_pozoIMG.jpg</Source>
+      <Name>obstaculo_pozoIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_pozoIMG.xnb</Output>
+      <Time>2013-12-03T13:21:27.5874533-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sorpresaIMG.jpg</Source>
+      <Name>sorpresaIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\sorpresaIMG.xnb</Output>
+      <Time>2013-12-03T13:21:55.8157732-03:00</Time>
+    </Item>
+    <Item>
+      <Source>vehiculo_cuatroXcuatroIMG.jpg</Source>
+      <Name>vehiculo_cuatroXcuatroIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_cuatroXcuatroIMG.xnb</Output>
+      <Time>2013-12-09T17:08:05.1987208-03:00</Time>
+    </Item>
+    <Item>
+      <Source>vehiculo_motoIMG.jpg</Source>
+      <Name>vehiculo_motoIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_motoIMG.xnb</Output>
+      <Time>2013-12-03T12:40:29.7893064-03:00</Time>
+    </Item>
+    <Item>
+      <Source>letra.spritefont</Source>
+      <Name>letra</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\letra.xnb</Output>
+      <Time>2013-12-10T10:21:51.9843071-03:00</Time>
+    </Item>
+    <Item>
+      <Source>llegadaIMG.png</Source>
+      <Name>llegadaIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\llegadaIMG.xnb</Output>
+      <Time>2013-12-07T19:41:30.1462035-03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.png</Source>
+      <Name>GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\GameOver.xnb</Output>
+      <Time>2013-12-07T19:41:30.0745077-03:00</Time>
+    </Item>
+    <Item>
+      <Source>fog.png</Source>
+      <Name>fog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\fog.xnb</Output>
+      <Time>2013-12-07T19:41:30.0755084-03:00</Time>
+    </Item>
+    <Item>
+      <Source>lightaura.png</Source>
+      <Name>lightaura</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\lightaura.xnb</Output>
+      <Time>2013-12-07T19:41:30.1300258-03:00</Time>
+    </Item>
+    <Item>
+      <Source>YouWin.jpg</Source>
+      <Name>YouWin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\YouWin.xnb</Output>
+      <Time>2013-12-08T18:14:07.2473874-03:00</Time>
+    </Item>
+    <Item>
+      <Source>easy.png</Source>
+      <Name>easy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\easy.xnb</Output>
+      <Time>2013-12-08T18:14:07.2493888-03:00</Time>
+    </Item>
+    <Item>
+      <Source>hard.png</Source>
+      <Name>hard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\hard.xnb</Output>
+      <Time>2013-12-08T18:14:07.250388-03:00</Time>
+    </Item>
+    <Item>
+      <Source>medium.png</Source>
+      <Name>medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\medium.xnb</Output>
+      <Time>2013-12-08T18:14:07.2523894-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Llegada.jpg</Source>
+      <Name>Llegada</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Llegada.xnb</Output>
+      <Time>2013-12-09T17:08:05.1797072-03:00</Time>
+    </Item>
+    <Item>
+      <Source>JuegoGanado.png</Source>
+      <Name>JuegoGanado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\JuegoGanado.xnb</Output>
+      <Time>2013-12-09T17:08:05.1626964-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu.png</Source>
+      <Name>Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Menu.xnb</Output>
+      <Time>2013-12-09T17:08:05.1907145-03:00</Time>
+    </Item>
+    <Item>
+      <Source>AlgoRitmosSA.png</Source>
+      <Name>AlgoRitmosSA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\AlgoRitmosSA.xnb</Output>
+      <Time>2013-12-09T17:08:05.1216691-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Presents.png</Source>
+      <Name>Presents</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Presents.xnb</Output>
+      <Time>2013-12-09T17:08:05.1917157-03:00</Time>
+    </Item>
+    <Item>
+      <Source>GPSChallenge.png</Source>
+      <Name>GPSChallenge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\GPSChallenge.xnb</Output>
+      <Time>2013-12-09T17:08:05.1596944-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\CuatroPorCuatro.mp3</Source>
+      <Name>Sonidos\CuatroPorCuatro</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\CuatroPorCuatro.xnb</Output>
+      <Time>2013-12-18T14:18:23.1823017-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\Auto.mp3</Source>
+      <Name>Sonidos\Auto</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Auto.xnb</Output>
+      <Time>2013-12-18T14:18:23.1782986-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\Moto.mp3</Source>
+      <Name>Sonidos\Moto</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Moto.xnb</Output>
+      <Time>2013-12-18T14:18:23.1918423-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\Presentacion.mp3</Source>
+      <Name>Sonidos\Presentacion</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Presentacion.xnb</Output>
+      <Time>2013-12-18T14:18:23.1975687-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\JuegoGanado.mp3</Source>
+      <Name>Sonidos\JuegoGanado</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\JuegoGanado.xnb</Output>
+      <Time>2013-12-18T14:18:23.18984-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\GameOver.mp3</Source>
+      <Name>Sonidos\GameOver</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\GameOver.xnb</Output>
+      <Time>2013-12-18T14:18:23.1863034-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNAContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNAContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-28T03:12:30.7337069-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

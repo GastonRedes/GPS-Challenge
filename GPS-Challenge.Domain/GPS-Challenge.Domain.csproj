@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E1FC5948-B390-40EA-A02B-C0E79C76964E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GPS_Challenge.Domain</RootNamespace>
+    <AssemblyName>GPS-Challenge.Domain</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model\Entities\Auto.cs" />
+    <Compile Include="Model\Entities\ControlPolicial.cs" />
+    <Compile Include="Model\Entities\Cuadra.cs" />
+    <Compile Include="Model\Entities\CuatroPorCuatro.cs" />
+    <Compile Include="Model\Entities\Esquina.cs" />
+    <Compile Include="Model\Entities\ITipoVehiculo.cs" />
+    <Compile Include="Model\Entities\Juego.cs" />
+    <Compile Include="Model\Entities\JuegoDificil.cs" />
+    <Compile Include="Model\Entities\JuegoFacil.cs" />
+    <Compile Include="Model\Entities\JuegoModerado.cs" />
+    <Compile Include="Model\Entities\Jugador.cs" />
+    <Compile Include="Model\Entities\Mapa.cs" />
+    <Compile Include="Model\Entities\Moto.cs" />
+    <Compile Include="Model\Entities\Obstaculo.cs" />
+    <Compile Include="Model\Entities\Orientacion.cs" />
+    <Compile Include="Model\Entities\Piquete.cs" />
+    <Compile Include="Model\Entities\Pozo.cs" />
+    <Compile Include="Model\Entities\Sorpresa.cs" />
+    <Compile Include="Model\Entities\SorpresaCambioVehiculo.cs" />
+    <Compile Include="Model\Entities\SorpresaDesfavorable.cs" />
+    <Compile Include="Model\Entities\SorpresaFavorable.cs" />
+    <Compile Include="Model\Entities\Vehiculo.cs" />
+    <Compile Include="Model\Exceptions\EsquinaInexistenteException.cs" />
+    <Compile Include="Model\Exceptions\NombreInvalidoException.cs" />
+    <Compile Include="Model\Exceptions\ObstaculoInexistenteException.cs" />
+    <Compile Include="Model\Exceptions\PosicionFueraDeRangoException.cs" />
+    <Compile Include="Model\Exceptions\SorpresaInexistenteException.cs" />
+    <Compile Include="Model\Exceptions\VehiculoNoPosicionadoInexistenteException.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

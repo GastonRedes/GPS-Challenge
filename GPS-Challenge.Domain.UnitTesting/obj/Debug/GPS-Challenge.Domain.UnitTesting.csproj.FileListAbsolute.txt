@@ -1,0 +1,68 @@
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.pdb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.pdb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.pdb
+C:\Users\Ezequiel\Desktop\tpalgo\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\Ezequiel\Desktop\tpalgo\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.pdb
+C:\Users\Ezequiel\Desktop\tpalgo\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.dll
+C:\Users\Ezequiel\Desktop\tpalgo\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.pdb
+C:\Users\Ezequiel\Desktop\tpalgo\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\nunit.framework.xml
+C:\Users\Ezequiel\Desktop\tpalgo\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\tpalgo\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\Ezequiel\Desktop\tpalgo\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.pdb
+C:\Users\Ezequiel\Desktop\tpalgo\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\nunit.framework.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.pdb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.pdb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\nunit.framework.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.pdb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.pdb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.dll
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\nunit.framework.dll
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.pdb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\nunit.framework.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.pdb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.pdb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.dll
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.pdb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\nunit.framework.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.pdb
+C:\Users\Ezequiel\Desktop\tp\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\Ezequiel\Desktop\tp\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.pdb
+C:\Users\Ezequiel\Desktop\tp\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.dll
+C:\Users\Ezequiel\Desktop\tp\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\nunit.framework.dll
+C:\Users\Ezequiel\Desktop\tp\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.pdb
+C:\Users\Ezequiel\Desktop\tp\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\nunit.framework.xml
+C:\Users\Ezequiel\Desktop\tp\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\tp\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\Ezequiel\Desktop\tp\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.pdb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.pdb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.dll
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\nunit.framework.dll
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.pdb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\nunit.framework.xml
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.pdb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\nunit.framework.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.pdb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.dll
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.pdb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\nunit.framework.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.dll
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\obj\Debug\GPS-Challenge.Domain.UnitTesting.pdb

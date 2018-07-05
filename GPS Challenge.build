@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+ 
+<project name="GPS-Challenge" default="Menu" basedir=".">
+
+ 
+	<description/>
+
+	<property name="build" value="GPS Challenge/" />
+ 
+	<property name="fuente" value="GPS-Challenge.Domain\Model\Entities/" />
+
+	<property name="excepciones" value="GPS-Challenge.Domain\Model\Exceptions/" />
+
+	<property name="tests" value="GPS-Challenge.Domain.UnitTesting\Model\Entities/" />
+ 
+	<property name="vistacontrol" value="GPS-Challenge.viewXna\GPS-Challenge.viewXna/" />
+ 
+	<property name="content" value="GPS-Challenge.viewXna\GPS-Challenge.viewXna\bin\x86\Debug\Content/" />
+
+	<property name="contenido" value="GPS-Challenge.viewXna\GPS-Challenge.viewXnaContent/" />
+ 
+	<property name="referenciasxna" value="ReferenciasXna/" />
+
+	<property name="archivos" value="GPS-Challenge.viewXna\GPS-Challenge.viewXna\bin\x86\Debug/" />
+
+
+	
+	<target name="Fuente">
+ 
+		<delete>
+ 
+			<fileset>
+ 
+				<include name="${build}" />
+ 
+			</fileset>
+ 
+		</delete>
+
+ 
+		<mkdir dir="${build}"/>
+ 
+ 
+		<csc target="library" output="${build}/GPS-Challenge.dll">
+ 
+			<sources>
+ 
+				<include name="${fuente}*.cs"/>
+				
+				<include name="${excepciones}*.cs"/>
+ 
+			</sources>
+ 
+		</csc>
+ 
+	</target>
+ 
+	
+ 
+	<target name="Tests" depends="Fuente">
+
+ 
+		<csc target="library" output="${build}/GPS-ChallengeTests.dll">
+ 
+			<sources>
+ 
+				<include name="${tests}*.cs" />
+ 
+			</sources>
+ 
+			<references basedir="${build}">
+ 
+				<include name="GPS-Challenge.dll" />
+ 
+				<include name="${nant::scan-probing-paths('nunit.framework.dll')}" />
+ 
+			</references>
+ 
+		</csc>
+        
+ 
+		<nunit2>
+ 
+			<formatter type="Plain" />
+ 
+			<test>
+ 
+				<assemblies basedir="${build}">
+ 
+					<include name="GPS-ChallengeTests.dll" />
+ 
+				</assemblies>
+ 
+				<references basedir="${build}">
+ 
+					<include name="GPS-Challenge.dll" />
+ 
+				</references>
+ 
+			</test>
+ 
+		</nunit2>
+ 
+	</target>
+ 
+	
+ 
+	<target name="Genera" depends="Fuente">
+
+ 
+		<csc target="exe" output="${build}GPS Challenge.exe">
+ 
+ 
+			<sources>
+ 
+				<include name="${vistacontrol}*.cs" />
+ 
+			</sources>
+ 
+			<references>
+ 
+				<include name="${referenciasxna}*.dll" />
+
+				<include name="${archivos}*.dll" />
+ 
+				<include name="${build}*.dll" />
+ 
+			</references>
+ 
+		</csc> 
+		
+
+		<copy todir="${build}"> 
+
+ 
+			<fileset basedir="${archivos}"> 
+ 
+				<include name="*.dll"/> 
+ 
+			</fileset> 
+		</copy>
+
+
+		<copy todir="${build}"> 
+
+ 
+			<fileset basedir="${archivos}"> 
+ 
+				<include name="*.txt"/> 
+ 
+			</fileset> 
+		</copy> 
+
+
+		<copy todir="${build}/Contenido">
+
+
+			<fileset basedir="${contenido}">
+ 
+				<include name="*.*"/>
+ 
+			</fileset>
+		</copy> 
+
+
+		<copy todir="${build}/Content">
+
+ 
+			<fileset basedir="${content}">
+ 
+				<include name="*.*"/>
+ 
+			</fileset>
+		</copy>
+
+	</target>
+ 
+	
+  
+	<target name="Menu">
+
+
+		<echo>Todas las opciones crean un directorio "GPS Challenge"</echo>
+		
+		<echo>donde se guardan los archivos y son borrados previamente</echo>
+
+ 		<echo></echo>
+
+		<echo>nant Fuente : Compila fuente</echo>
+ 
+		<echo>nant Tests  : Compila fuente, tests y los corre</echo>
+ 
+		<echo>nant Genera : Compila todo (excepto tests) y genera aplicacion</echo>
+ 
+	</target>
+ 
+	 
+</project> 

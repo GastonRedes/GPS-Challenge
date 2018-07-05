@@ -1,0 +1,280 @@
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.ViewXNA.exe
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.ViewXNA.pdb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.exe
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.pdb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\mapa_backgroundIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_autoIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\menu_backgroundIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\letra.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.Domain.dll
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.Domain.pdb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\cuadraIMG.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\mapa_backgroundIMG.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_autoIMG.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\cuadraIMG.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\letra.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.ViewXNA.exe
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.ViewXNA.pdb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.csprojResolveAssemblyReference.cache
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.exe
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.pdb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.exe
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.pdb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\mapa_backgroundIMG.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_autoIMG.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\menu_backgroundIMG.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\cuadraIMG.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_piqueteIMG.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_policiaIMG.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_pozoIMG.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\sorpresaIMG.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_cuatroXcuatroIMG.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_motoIMG.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\letra.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.ViewXNA.exe
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.ViewXNA.pdb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.Domain.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.Domain.pdb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.csprojResolveAssemblyReference.cache
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_piqueteIMG.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_policiaIMG.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_pozoIMG.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\sorpresaIMG.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_cuatroXcuatroIMG.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_motoIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_piqueteIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_policiaIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_pozoIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\sorpresaIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_cuatroXcuatroIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_motoIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\llegadaIMG.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\mapa_backgroundIMG.xnb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_autoIMG.xnb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\menu_backgroundIMG.xnb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\cuadraIMG.xnb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_piqueteIMG.xnb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_policiaIMG.xnb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_pozoIMG.xnb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\sorpresaIMG.xnb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_cuatroXcuatroIMG.xnb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_motoIMG.xnb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\llegadaIMG.xnb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\letra.xnb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.ViewXNA.exe
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.ViewXNA.pdb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.Domain.dll
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.Domain.pdb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.exe
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.pdb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\fog.xnb
+C:\Users\Ezequiel\Desktop\gaston cambios\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\lightaura.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\llegadaIMG.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\fog.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\lightaura.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\fog.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\lightaura.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\YouWin.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\easy.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\hard.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\medium.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_autoIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\menu_backgroundIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\cuadraIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_piqueteIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_policiaIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_pozoIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\sorpresaIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_cuatroXcuatroIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_motoIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\llegadaIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\fog.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\lightaura.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\mapa_backgroundIMG.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\YouWin.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\easy.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\hard.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\medium.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\letra.xnb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.ViewXNA.exe
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.ViewXNA.pdb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.Domain.dll
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.Domain.pdb
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.exe
+C:\Users\Ezequiel\Desktop\tp2 con botones\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.pdb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\fog.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\lightaura.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Llegada.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\JuegoGanado.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Presents.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\GPSChallenge.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\AlgoRitmosSA.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\YouWin.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\easy.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\hard.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\medium.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Llegada.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\JuegoGanado.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Menu.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\AlgoRitmosSA.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Presents.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\GPSChallenge.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\LzmaSharp.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\NMock.StrongNamed.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Audio.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Fonts.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Game.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Geometry.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Graphics.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Graphics.SpecialEffects.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Input.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Math.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Networking.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Support.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Testing.Xna.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.UserInterface.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Windows.Forms.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\SlimDX.DirectInput.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\nunit.framework.dll
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Game.ContentCompressor.exe
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\LzmaSharp.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\NMock.StrongNamed.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Audio.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Fonts.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Game.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Geometry.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Graphics.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Graphics.SpecialEffects.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Input.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Math.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Networking.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Support.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Testing.Xna.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.UserInterface.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Windows.Forms.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\SlimDX.DirectInput.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\nunit.framework.xml
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Game.ContentCompressor.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Llegada.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\JuegoGanado.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Menu.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\AlgoRitmosSA.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Presents.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\GPSChallenge.xnb
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\nunit.framework.dll
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Game.ContentCompressor.exe
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\LzmaSharp.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\NMock.StrongNamed.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Audio.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Fonts.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Game.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Geometry.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Graphics.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Graphics.SpecialEffects.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Input.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Math.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Networking.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Support.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Testing.Xna.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.UserInterface.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Windows.Forms.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\SlimDX.DirectInput.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\nunit.framework.xml
+C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Game.ContentCompressor.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\nunit.framework.dll
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Game.ContentCompressor.exe
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\LzmaSharp.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\NMock.StrongNamed.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Audio.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Fonts.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Game.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Geometry.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Graphics.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Graphics.SpecialEffects.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Input.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Math.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Networking.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Support.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Testing.Xna.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.UserInterface.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Windows.Forms.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\SlimDX.DirectInput.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\nunit.framework.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Game.ContentCompressor.xml
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\CuatroPorCuatro.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Auto.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Moto.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Presentacion.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\JuegoGanado.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\GameOver.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\CuatroPorCuatro.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Auto.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Moto.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Presentacion.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\JuegoGanado.xnb
+C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\GameOver.xnb
+C:\Users\GM\Documents\repositorio\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Juego.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_autoIMG.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\cuadraIMG.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_piqueteIMG.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_policiaIMG.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_pozoIMG.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\sorpresaIMG.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_cuatroXcuatroIMG.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_motoIMG.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\fog.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\lightaura.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\mapa_backgroundIMG.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Llegada.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\JuegoGanado.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\AlgoRitmosSA.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Presents.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\GPSChallenge.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\letra.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\CuatroPorCuatro.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Auto.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Moto.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Presentacion.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\JuegoGanado.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\GameOver.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Juego.xnb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.ViewXNA.exe
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\GPS-Challenge.ViewXNA.pdb
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\nunit.framework.dll
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Game.ContentCompressor.exe
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\LzmaSharp.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\NMock.StrongNamed.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Audio.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Fonts.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Game.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Geometry.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Graphics.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Graphics.SpecialEffects.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Input.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Math.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Networking.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Support.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Testing.Xna.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.UserInterface.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Windows.Forms.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\SlimDX.DirectInput.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\nunit.framework.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Nuclex.Game.ContentCompressor.xml
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.csprojResolveAssemblyReference.cache
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.exe
+C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\GPS-Challenge.ViewXNA.pdb

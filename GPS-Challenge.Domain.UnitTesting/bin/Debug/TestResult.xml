@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.dll" total="46" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-12-13" time="21:35:21">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.4984" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="EZEQUIEL-PC" user="Ezequiel" user-domain="Ezequiel-PC" />
+  <culture-info current-culture="es-AR" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.dll" executed="True" result="Success" success="True" time="1.467" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="GPS_Challenge" executed="True" result="Success" success="True" time="1.391" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Domain" executed="True" result="Success" success="True" time="1.389" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="UnitTesting" executed="True" result="Success" success="True" time="1.388" asserts="0">
+                <results>
+                  <test-suite type="Namespace" name="Model" executed="True" result="Success" success="True" time="1.387" asserts="0">
+                    <results>
+                      <test-suite type="Namespace" name="Entities" executed="True" result="Success" success="True" time="1.385" asserts="0">
+                        <results>
+                          <test-suite type="TestFixture" name="AutoTest" executed="True" result="Success" success="True" time="0.180" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.AutoTest.CreoAuto" executed="True" result="Success" success="True" time="0.127" asserts="7" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="ControlPolicialTest" executed="True" result="Success" success="True" time="0.045" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.ControlPolicialTest.SiPenalizaAutoDespuesDeIntentarVariasVecesYPermiteMover" executed="True" result="Success" success="True" time="0.008" asserts="2" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.ControlPolicialTest.SiPenalizaCuatroPorCuatroDespuesDeIntentarVariasVecesYPermiteMover" executed="True" result="Success" success="True" time="0.012" asserts="2" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.ControlPolicialTest.SiPenalizaMotoDespuesDeIntentarVariasVecesYPermiteMover" executed="True" result="Success" success="True" time="0.004" asserts="2" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="CuadraTest" executed="True" result="Success" success="True" time="0.031" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.CuadraTest.AgregarObstaculo" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.CuadraTest.AgregarSorpresa" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.CuadraTest.CuadraInicializaSinSorpresaNiObstaculo" executed="True" result="Success" success="True" time="0.004" asserts="2" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="CuatroPorCuatroTest" executed="True" result="Success" success="True" time="0.008" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.CuatroPorCuatroTest.CreoCuatroPorCuatro" executed="True" result="Success" success="True" time="0.004" asserts="7" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="EsquinaTest" executed="True" result="Success" success="True" time="0.074" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.EsquinaTest.AgregarCuadras" executed="True" result="Success" success="True" time="0.005" asserts="4" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.EsquinaTest.AgregarEsquinaEste" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.EsquinaTest.AgregarEsquinaNorte" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.EsquinaTest.AgregarEsquinaOeste" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.EsquinaTest.AgregarEsquinaSur" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.EsquinaTest.EsMetaDevuelveFalse" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.EsquinaTest.VecinosIncializanEnNUll" executed="True" result="Success" success="True" time="0.001" asserts="4" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="JuegoTest" executed="True" result="Success" success="True" time="0.069" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.JuegoTest.CreoJuegoEnModoDificil" executed="True" result="Success" success="True" time="0.037" asserts="5" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.JuegoTest.CreoJuegoEnModoFacil" executed="True" result="Success" success="True" time="0.006" asserts="5" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.JuegoTest.CreoJuegoEnModoModerado" executed="True" result="Success" success="True" time="0.005" asserts="5" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="JugadorTest" executed="True" result="Success" success="True" time="0.040" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.JugadorTest.CreoJugador" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.JugadorTest.CreoJugadorConNombreInvalido" executed="True" result="Success" success="True" time="0.025" asserts="2" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="MapaTest" executed="True" result="Success" success="True" time="0.037" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.MapaTest.ChequearCuadrasDeVecinos" executed="True" result="Success" success="True" time="0.004" asserts="180" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.MapaTest.ChequearVecinos" executed="True" result="Success" success="True" time="0.004" asserts="360" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.MapaTest.PedirEsquinaFueraDeRangoLanzaException" executed="True" result="Success" success="True" time="0.005" asserts="1" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="MotoTest" executed="True" result="Success" success="True" time="0.009" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.MotoTest.CreoMoto" executed="True" result="Success" success="True" time="0.004" asserts="7" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="PersistenciaJuegoTest" executed="True" result="Success" success="True" time="0.445" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.PersistenciaJuegoTest.creoJuegoConJugadorMarioYPersistenDatos" executed="True" result="Success" success="True" time="0.441" asserts="3" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="PiqueteTest" executed="True" result="Success" success="True" time="0.045" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.PiqueteTest.PenalizarAutoNoLoDejaPasar" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.PiqueteTest.PenalizarCuatroPorCuatroNoLaDejaPasar" executed="True" result="Success" success="True" time="0.004" asserts="2" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.PiqueteTest.PenalizarMotoAgrega2Movimientos" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.PiqueteTest.PenalizarMotoLaDejaPasar" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="PozoTest" executed="True" result="Success" success="True" time="0.029" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.PozoTest.PenalizarAutoAgrega3MovimientosYPermiteMover" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.PozoTest.PenalizarCuatroXCuatroNoAgregaMovimientosYPermiteMover" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.PozoTest.PenalizarMotoAgrega3MovimientosYPermiteMover" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="SorpresaCambioVehiculoTest" executed="True" result="Success" success="True" time="0.031" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.SorpresaCambioVehiculoTest.AutoCambiaACuatroPorCuatro" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.SorpresaCambioVehiculoTest.CuatroPorCuatroCambiaAMoto" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.SorpresaCambioVehiculoTest.MotoCambiaAAuto" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="SorpresaDesfavorableTest" executed="True" result="Success" success="True" time="0.032" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.SorpresaDesfavorableTest.AccionarReduceEl20PorCientoDeLosMovimientosDeAuto" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.SorpresaDesfavorableTest.AccionarReduceEl20PorCientoDeLosMovimientosDeCuatroXCuatro" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.SorpresaDesfavorableTest.AccionarReduceEl20PorCientoDeLosMovimientosDeMoto" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="SorpresaFavorableTest" executed="True" result="Success" success="True" time="0.035" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.SorpresaFavorableTest.AccionarReduceEl20PorCientoDeLosMovimientosDeAuto" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.SorpresaFavorableTest.AccionarReduceEl20PorCientoDeLosMovimientosDeCuatroXCuatro" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.SorpresaFavorableTest.AccionarReduceEl20PorCientoDeLosMovimientosDeMoto" executed="True" result="Success" success="True" time="0.006" asserts="1" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="VehiculoTest" executed="True" result="Success" success="True" time="0.073" asserts="0">
+                            <results>
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.VehiculoTest.MoverVehiculoAEsquinaInexistenteDaException" executed="True" result="Success" success="True" time="0.008" asserts="1" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.VehiculoTest.MoverVehiculoAutoDeUnaEsquinaAOtraConPozo" executed="True" result="Success" success="True" time="0.004" asserts="2" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.VehiculoTest.MoverVehiculoDeEsquinaSinVehiculoDaException" executed="True" result="Success" success="True" time="0.005" asserts="1" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.VehiculoTest.MoverVehiculoDeUnaEsquinaAOtra" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                              <test-case name="GPS_Challenge.Domain.UnitTesting.Model.Entities.VehiculoTest.MoverVehiculoDeUnaEsquinaAOtraAumentaMovimiento" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                            </results>
+                          </test-suite>
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

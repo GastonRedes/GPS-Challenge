@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain\Model\Entities\;C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain\Model\Exceptions\</ReferencePath>
+  </PropertyGroup>
+</Project>

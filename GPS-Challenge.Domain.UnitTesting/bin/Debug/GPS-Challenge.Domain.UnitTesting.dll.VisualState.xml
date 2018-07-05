@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1062]C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.dll</TopNode>
+  <SelectedNode>[0-1067]GPS_Challenge.Domain.UnitTesting.Model.Entities</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1062]C:\Users\Ezequiel\Desktop\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.dll" Expanded="true" />
+    <Node UniqueName="[0-1063]GPS_Challenge" Expanded="true" />
+    <Node UniqueName="[0-1064]GPS_Challenge.Domain" Expanded="true" />
+    <Node UniqueName="[0-1065]GPS_Challenge.Domain.UnitTesting" Expanded="true" />
+    <Node UniqueName="[0-1066]GPS_Challenge.Domain.UnitTesting.Model" Expanded="true" />
+    <Node UniqueName="[0-1067]GPS_Challenge.Domain.UnitTesting.Model.Entities" Expanded="true" />
+    <Node UniqueName="[0-1000]GPS_Challenge.Domain.UnitTesting.Model.Entities.AutoTest" Expanded="true" />
+    <Node UniqueName="[0-1002]GPS_Challenge.Domain.UnitTesting.Model.Entities.PersistenciaJuegoTest" Expanded="true" />
+  </Nodes>
+</VisualState>

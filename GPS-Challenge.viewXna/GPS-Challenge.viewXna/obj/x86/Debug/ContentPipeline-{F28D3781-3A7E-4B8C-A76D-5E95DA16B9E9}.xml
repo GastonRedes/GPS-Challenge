@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>vehiculo_autoIMG.jpg</Source>
+      <Name>vehiculo_autoIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_autoIMG.xnb</Output>
+      <Time>2013-12-21T03:35:22.6552735-03:00</Time>
+    </Item>
+    <Item>
+      <Source>cuadraIMG.jpg</Source>
+      <Name>cuadraIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\cuadraIMG.xnb</Output>
+      <Time>2013-12-21T03:35:22.6035157-03:00</Time>
+    </Item>
+    <Item>
+      <Source>obstaculo_piqueteIMG.jpg</Source>
+      <Name>obstaculo_piqueteIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_piqueteIMG.xnb</Output>
+      <Time>2013-12-21T03:35:22.6435547-03:00</Time>
+    </Item>
+    <Item>
+      <Source>obstaculo_policiaIMG.jpg</Source>
+      <Name>obstaculo_policiaIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_policiaIMG.xnb</Output>
+      <Time>2013-12-21T03:35:22.6464844-03:00</Time>
+    </Item>
+    <Item>
+      <Source>obstaculo_pozoIMG.jpg</Source>
+      <Name>obstaculo_pozoIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\obstaculo_pozoIMG.xnb</Output>
+      <Time>2013-12-21T03:35:22.6484375-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sorpresaIMG.jpg</Source>
+      <Name>sorpresaIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\sorpresaIMG.xnb</Output>
+      <Time>2013-12-21T03:35:22.6503907-03:00</Time>
+    </Item>
+    <Item>
+      <Source>vehiculo_cuatroXcuatroIMG.jpg</Source>
+      <Name>vehiculo_cuatroXcuatroIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_cuatroXcuatroIMG.xnb</Output>
+      <Time>2013-12-21T03:35:22.6572266-03:00</Time>
+    </Item>
+    <Item>
+      <Source>vehiculo_motoIMG.jpg</Source>
+      <Name>vehiculo_motoIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\vehiculo_motoIMG.xnb</Output>
+      <Time>2013-12-21T03:35:22.6591797-03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.png</Source>
+      <Name>GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\GameOver.xnb</Output>
+      <Time>2013-12-21T03:35:22.5244141-03:00</Time>
+    </Item>
+    <Item>
+      <Source>fog.png</Source>
+      <Name>fog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\fog.xnb</Output>
+      <Time>2013-12-21T03:35:22.6074219-03:00</Time>
+    </Item>
+    <Item>
+      <Source>lightaura.png</Source>
+      <Name>lightaura</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\lightaura.xnb</Output>
+      <Time>2013-12-21T03:35:22.6113282-03:00</Time>
+    </Item>
+    <Item>
+      <Source>mapa_backgroundIMG.jpg</Source>
+      <Name>mapa_backgroundIMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\mapa_backgroundIMG.xnb</Output>
+      <Time>2013-12-21T03:35:22.6142578-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Llegada.jpg</Source>
+      <Name>Llegada</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Llegada.xnb</Output>
+      <Time>2013-12-21T03:35:22.5322266-03:00</Time>
+    </Item>
+    <Item>
+      <Source>JuegoGanado.png</Source>
+      <Name>JuegoGanado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\JuegoGanado.xnb</Output>
+      <Time>2013-12-21T03:35:22.5302735-03:00</Time>
+    </Item>
+    <Item>
+      <Source>AlgoRitmosSA.png</Source>
+      <Name>AlgoRitmosSA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\AlgoRitmosSA.xnb</Output>
+      <Time>2013-12-21T03:35:22.4707032-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Presents.png</Source>
+      <Name>Presents</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Presents.xnb</Output>
+      <Time>2013-12-21T03:35:22.5605469-03:00</Time>
+    </Item>
+    <Item>
+      <Source>GPSChallenge.png</Source>
+      <Name>GPSChallenge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\GPSChallenge.xnb</Output>
+      <Time>2013-12-21T03:35:22.5195313-03:00</Time>
+    </Item>
+    <Item>
+      <Source>letra.spritefont</Source>
+      <Name>letra</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\letra.xnb</Output>
+      <Time>2013-12-21T03:35:22.609375-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\CuatroPorCuatro.mp3</Source>
+      <Name>Sonidos\CuatroPorCuatro</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\CuatroPorCuatro.xnb</Output>
+      <Time>2013-12-21T03:35:22.5703125-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\Auto.mp3</Source>
+      <Name>Sonidos\Auto</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Auto.xnb</Output>
+      <Time>2013-12-21T03:35:22.5654297-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\Moto.mp3</Source>
+      <Name>Sonidos\Moto</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Moto.xnb</Output>
+      <Time>2013-12-21T03:35:22.5917969-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\Presentacion.mp3</Source>
+      <Name>Sonidos\Presentacion</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Presentacion.xnb</Output>
+      <Time>2013-12-21T03:35:22.5976563-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\JuegoGanado.mp3</Source>
+      <Name>Sonidos\JuegoGanado</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\JuegoGanado.xnb</Output>
+      <Time>2013-12-21T03:35:22.5888672-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\GameOver.mp3</Source>
+      <Name>Sonidos\GameOver</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\GameOver.xnb</Output>
+      <Time>2013-12-21T03:35:22.5761719-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\Juego.mp3</Source>
+      <Name>Sonidos\Juego</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\Sonidos\Juego.xnb</Output>
+      <Time>2013-12-21T03:35:22.5839844-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{F28D3781-3A7E-4B8C-A76D-5E95DA16B9E9}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNAContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\GM\Documents\Visual Studio 2012\Projects\GPS-Challenge\GPS-Challenge.ViewXNA\GPS-Challenge.ViewXNA\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-12-29T16:33:32.1708984-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

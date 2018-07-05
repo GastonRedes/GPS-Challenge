@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.sln</TopNode>
+  <SelectedNode>[0-1025]GPS_Challenge</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.sln" Expanded="true" />
+    <Node UniqueName="[0-1024]C:\Users\Margonari\Documents\Facultad\Algoritmos III\TP 2\tp2-algoiii-2013-c2\GPS-Challenge\GPS-Challenge.Domain.UnitTesting\bin\Debug\GPS-Challenge.Domain.UnitTesting.dll" Expanded="true" />
+    <Node UniqueName="[0-1025]GPS_Challenge" Expanded="true" />
+    <Node UniqueName="[0-1026]GPS_Challenge.Domain" Expanded="true" />
+    <Node UniqueName="[0-1027]GPS_Challenge.Domain.UnitTesting" Expanded="true" />
+    <Node UniqueName="[0-1028]GPS_Challenge.Domain.UnitTesting.Model" Expanded="true" />
+    <Node UniqueName="[0-1029]GPS_Challenge.Domain.UnitTesting.Model.Entities" Expanded="true" />
+    <Node UniqueName="[0-1010]GPS_Challenge.Domain.UnitTesting.Model.Entities.MotoTest" Expanded="true" />
+  </Nodes>
+</VisualState>
